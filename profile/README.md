@@ -54,8 +54,8 @@ Selyne delivers powerful capabilities to support intelligence and decision-makin
 ## **Contact Us**
 
 Interested in learning more about Selyne? Get in touch with us:  
-📧 **me@lota.dev**  
-🌐 **https://www.lota.dev**
+📧 **help@selyne.net**  
+🌐 **https://selyne.net**
 
 ---
 
